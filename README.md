@@ -1,1 +1,1 @@
-heyy my goal is to eventually contribute to foss but i dont really have much to commit xd
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=awrped_Github)
